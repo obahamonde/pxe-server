@@ -1,0 +1,2 @@
+do:
+	sh build.sh
